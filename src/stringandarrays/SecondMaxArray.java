@@ -1,4 +1,6 @@
-package arrays;
+package stringandarrays;
+
+import util.DsaArrayUtil;
 
 public class SecondMaxArray {
     public static int findSecondMaxArray(int[] arr) {

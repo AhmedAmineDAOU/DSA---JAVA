@@ -1,4 +1,4 @@
-package arrays;
+package util;
 
 public class DsaArrayUtil {
     public static void printArray(int[] arr) {

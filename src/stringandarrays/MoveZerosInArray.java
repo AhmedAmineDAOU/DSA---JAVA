@@ -1,6 +1,8 @@
-package arrays;
+package stringandarrays;
 
-public class MoveZeros {
+import util.DsaArrayUtil;
+
+public class MoveZerosInArray {
     //move zeros to the right and keeping order
     /* Key Concepts:
     Two Pointers: The algorithm uses two pointers:

@@ -1,6 +1,8 @@
-package arrays;
+package stringandarrays;
 
-public class FindMissingNumber {
+import util.DsaArrayUtil;
+
+public class FindMissingNumberInArray {
     private static int findMissingNumber(int[] arr) {
         //according to our example our range here will be from 1 -> 10
         int n = arr.length + 1;
